@@ -9,15 +9,17 @@
 
 ## README.md must consist of the following information:
 
-#### Team Name -
-#### Problem Statement - 
-#### Team Leader Email -
+#### Team Name -Revolters
+#### Problem Statement - Generate a text to 3D model Ai
+#### Team Leader Email - vijayaragavan18r@gmail.com
 
 ## A Brief of the Prototype:
-  This section must include prototype description
+  Generation of 3D model through text with the help of python programming 
+in visualcode platform using vtk , SHAP etc...
   
 ## Tech Stack: 
-   List Down all technologies used to Build the prototype
-  
+   1.python programming
+   2.visual code 
+
 ## What I Learned:
-   Write about the biggest learning you had while developing the prototype
+   Usage of python programming in visual code platform and to generate 3D model AI by own
